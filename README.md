@@ -23,3 +23,6 @@ You should remove a file other than index.html.
 
 ### Task 8 -- Amber
 Slack your partner. You should both edit an HTML file. Add a recipe that you like using lists.
+
+### Task 9 -- Kyle
+Slack your partner. You should both edit five CSS properties.
