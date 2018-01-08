@@ -8,3 +8,6 @@ Slack your partner. You should both create a new CSS file. Link to it from one o
 
 ### Task 3 -- Kyle
 You should create a new CSS file. Link to it from one of your HTML files.
+
+### Task 4 -- Amber
+Slack your partner. You should both create an array of objects. Each object should have a name and age.

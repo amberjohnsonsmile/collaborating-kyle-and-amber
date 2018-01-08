@@ -8,3 +8,14 @@ var people = [{
   name: "Kevin",
   age: 35
 }]
+
+var dudes = [{
+    name: "Harry",
+    age: 11
+}, {
+    name: "Ron",
+    age: 11
+}, {
+    name: "Hermione",
+    age: 11
+}]
