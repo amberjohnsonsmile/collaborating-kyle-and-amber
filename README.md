@@ -26,3 +26,6 @@ Slack your partner. You should both edit an HTML file. Add a recipe that you lik
 
 ### Task 9 -- Kyle
 Slack your partner. You should both edit five CSS properties.
+
+### Task 10 -- Amber
+You should edit an HTML file. Add a paragraph about something you like.
